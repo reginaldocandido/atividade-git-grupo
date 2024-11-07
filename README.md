@@ -21,3 +21,5 @@ Primeiro, cada aluno deve **clonar** este repositório para sua máquina local. 
 ```bash
 git clone https://github.com/reginaldocandido/atividade-git-grupo
 
+### Tem coisa nova
+
