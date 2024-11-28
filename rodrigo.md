@@ -1,0 +1,1 @@
+Cibersegurança é a prática de proteger sistemas, redes, dados, aplicações e dispositivos de TI (tecnologia da informação) contra ameaças virtuais. O objetivo é evitar que os cibercriminosos interrompam operações, obtenham acesso não autorizado, roubem dados ou extorquem dinheiro.
