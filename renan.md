@@ -1,0 +1,3 @@
+Minha área de interesse principal é Internet das Coisas (IoT) e acredito que essa tecnologia tem o poder de transformar o mundo. Gosto de pensar em como conectar dispositivos, coletar dados em tempo real e automatizar processos pode melhorar a vida das pessoas e tornar o dia a dia mais prático e eficiente.
+
+Minha meta é usar IoT para criar soluções que realmente ajudem as pessoas, simplificando tarefas, aumentando a produtividade e trazendo mais conforto e segurança. Quero desenvolver projetos acessíveis e que tenham impacto em áreas como agricultura, saúde e casas inteligentes, contribuindo para um futuro mais conectado e sustentável.
