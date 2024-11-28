@@ -1,1 +1,0 @@
-Tenho interesse em desenvolvimento de software, especialmente na área de tecnologias web, utilizando frameworks como PHP, Laravel, Bootstrap, além de HTML, CSS e JavaScript. Também me interesso por projetos voltados para IoT, desenvolvimento de bots, automação e dashboards, além de explorar oportunidades em suporte técnico, redes e desenvolvimento back-end.
