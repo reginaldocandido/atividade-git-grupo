@@ -1,0 +1,1 @@
+Minha area de interesse na tecnologia é a programação backend e futuramente segurança da informação. As linguagens que mais trabalho é Typescript e C#, mas conheço outras linguagens também.
